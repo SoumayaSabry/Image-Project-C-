@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Probleme_info_A2_Soumaya_SABRY_TD_K_V1\Probleme info\bin\Debug\Probleme info.exe.config
+C:\Users\Dell\source\repos\Probleme_info_A2_Soumaya_SABRY_TD_K_V1\Probleme info\bin\Debug\Probleme info.exe
+C:\Users\Dell\source\repos\Probleme_info_A2_Soumaya_SABRY_TD_K_V1\Probleme info\bin\Debug\Probleme info.pdb
+C:\Users\Dell\source\repos\Probleme_info_A2_Soumaya_SABRY_TD_K_V1\Probleme info\obj\Debug\Probleme info.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\Probleme_info_A2_Soumaya_SABRY_TD_K_V1\Probleme info\obj\Debug\Probleme info.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Probleme_info_A2_Soumaya_SABRY_TD_K_V1\Probleme info\obj\Debug\Probleme info.exe
+C:\Users\Dell\source\repos\Probleme_info_A2_Soumaya_SABRY_TD_K_V1\Probleme info\obj\Debug\Probleme info.pdb
